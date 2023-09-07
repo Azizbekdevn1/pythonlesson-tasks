@@ -1,6 +1,7 @@
 #Muallif:Murodov Azizbek 
 #Sana:8.01.2023 year
 #Mavzu :So'z topish o'yini
+#Find game in Python
 
 
 import random
